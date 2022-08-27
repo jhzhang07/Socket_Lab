@@ -1,0 +1,10 @@
+﻿  file_Server.cpp
+d:\c++\大三下\计算机网络课设\文件传输\file_server\message.h(66): warning C4018: “<”: 有符号/无符号不匹配
+d:\c++\大三下\计算机网络课设\文件传输\file_server\message.h(76): warning C4018: “<”: 有符号/无符号不匹配
+d:\c++\大三下\计算机网络课设\文件传输\file_server\message.h(157): warning C4018: “<”: 有符号/无符号不匹配
+d:\c++\大三下\计算机网络课设\文件传输\file_server\message.h(167): warning C4018: “<”: 有符号/无符号不匹配
+d:\c++\大三下\计算机网络课设\文件传输\file_server\file_server.cpp(121): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  All 85 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  file_Server.vcxproj -> D:\C++\大三下\计算机网络课设\文件传输\file_Server\Release\file_Server.exe

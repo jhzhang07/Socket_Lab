@@ -1,0 +1,11 @@
+﻿  file_Client.cpp
+d:\c++\大三下\计算机网络课设\文件传输\file_client\message.h(66): warning C4018: “<”: 有符号/无符号不匹配
+d:\c++\大三下\计算机网络课设\文件传输\file_client\message.h(76): warning C4018: “<”: 有符号/无符号不匹配
+d:\c++\大三下\计算机网络课设\文件传输\file_client\message.h(157): warning C4018: “<”: 有符号/无符号不匹配
+d:\c++\大三下\计算机网络课设\文件传输\file_client\message.h(167): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  1 of 128 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  file_Client.vcxproj -> D:\C++\大三下\计算机网络课设\文件传输\file_Client\Release\file_Client.exe

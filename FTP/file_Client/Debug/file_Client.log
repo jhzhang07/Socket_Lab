@@ -1,0 +1,7 @@
+﻿  file_Client.cpp
+d:\c++\大三下\计算机网络课设\文件传输\file_client\message.h(66): warning C4018: “<”: 有符号/无符号不匹配
+d:\c++\大三下\计算机网络课设\文件传输\file_client\message.h(76): warning C4018: “<”: 有符号/无符号不匹配
+d:\c++\大三下\计算机网络课设\文件传输\file_client\message.h(146): warning C4018: “<”: 有符号/无符号不匹配
+d:\c++\大三下\计算机网络课设\文件传输\file_client\message.h(156): warning C4018: “<”: 有符号/无符号不匹配
+d:\c++\大三下\计算机网络课设\文件传输\file_client\file_client.cpp(43): warning C4101: “fsend_message”: 未引用的局部变量
+  file_Client.vcxproj -> D:\C++\大三下\计算机网络课设\文件传输\file_Client\Debug\file_Client.exe
