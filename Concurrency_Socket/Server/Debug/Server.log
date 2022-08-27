@@ -1,0 +1,3 @@
+﻿  Server.cpp
+d:\c++\大三下\计算机网络课设\并发套接字编程\server\server.cpp(72): warning C4018: “<”: 有符号/无符号不匹配
+  Server.vcxproj -> D:\C++\大三下\计算机网络课设\并发套接字编程\Server\Debug\Server.exe
